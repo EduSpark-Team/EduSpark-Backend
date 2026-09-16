@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EduSpark.API/EduSpark.API.csproj" />
+  <Project Path="EduSpark.Application/EduSpark.Application.csproj" />
+  <Project Path="EduSpark.Domain/EduSpark.Domain.csproj" />
+  <Project Path="EduSpark.Infrastructure/EduSpark.Infrastructure.csproj" />
+</Solution>
